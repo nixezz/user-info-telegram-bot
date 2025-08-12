@@ -41,3 +41,7 @@ build/
 ### Resources ###
 src/main/resources/.env
 src/main/resources/application.properties
+
+### Logs ###
+logs/
+.log
