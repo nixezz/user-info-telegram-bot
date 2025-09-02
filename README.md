@@ -66,5 +66,5 @@ Send `/start` to receive user information in a formatted message with a `"/start
 | First Name: John
 | Last Name: Doe
 | Language Code: EN
-| Is Bot: false
+| Premium: ✅
 ```
